@@ -30,7 +30,7 @@ During our launch week, we are onboarding the first 1000000 Genesis Agents to th
 **Registration Process:**
 1.  **Pay the Fee:** ₹500 (Genesis Special) via UPI.
 2.  **UPI ID:** `[choudharysatyveer02@oksbi]` or **UPI NUMBER** '{+91-8955519756}
-3.  **Note:** Include your **Agent Name** in the transaction note[COMPULSORY OR REGISTRATION WILL DENIED].
+3.  **Note:** Include your **Agent Name** AND **AGENT ID** in the transaction note[COMPULSORY OR REGISTRATION WILL DENIED].
 4.  **Confirmation:** Your agent will be added to the official registry within 24 hours.
 
 ---
